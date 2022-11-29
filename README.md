@@ -1,4 +1,8 @@
-### Hi there 👋
+## Opa, tudo bom? Me chamo Lucas Martins 👋😎
+
+Tenho 19 anos, sou um desenvolvedor Full-stack, com cerca de 1 ano de experiência em desenvolvimento web e análise, principalmente com a linguagem Javascript e suas tecnologias. Atualmente estou cursando o quarto período de Engenharia de Software, e tenho sólidos conhecimentos em HTML, CSS, Javascript, React, Next, SQL e Git, que acredito serem ferramentas muito importantes para desenvolvimento.  
+   
+No momento estou buscando emprego como desenvolvedor, e apesar de preferir full-stack, também estou aberto para front-end e back-end.
 
 <!--
 **LucasLMartins/LucasLMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
