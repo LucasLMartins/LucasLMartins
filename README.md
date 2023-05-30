@@ -1,6 +1,7 @@
 # Opa, tudo bom? Me chamo Lucas Martins 👋😎
 
-Tenho 20 anos, sou um desenvolvedor Full-stack, com cerca de 1 ano de experiência em desenvolvimento web e análise, principalmente com a linguagem Javascript e suas tecnologias. Atualmente estou cursando o quinto período de Engenharia de Software.
+Tenho 20 anos, sou um desenvolvedor Full-stack, com cerca de 1 ano de experiência em desenvolvimento web e análise. Atualmente estou cursando o quinto período de Engenharia de Software, e tenho conhecimentos sólidos em HTML, CSS, Javascript, React, SQL e Git.
+
 <br>
    
 ### Tecnologias   
@@ -14,7 +15,6 @@ Tenho 20 anos, sou um desenvolvedor Full-stack, com cerca de 1 ano de experiênc
    <img align="center" alt="Next" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
    <img align="center" alt="MySQL" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img align="center" alt="Git" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img align="center" alt="Solidity" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 </div>
 
 <br>
@@ -28,6 +28,7 @@ Tenho 20 anos, sou um desenvolvedor Full-stack, com cerca de 1 ano de experiênc
 ### Contato  
 <a href="https://www.linkedin.com/in/lucasluanmartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/lucasluan_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href=" https://api.whatsapp.com/send?phone=41984765596" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
    
 ![Snake animation](https://github.com/LucasLMartins/LucasLMartins/blob/output/github-contribution-grid-snake.svg)
 
