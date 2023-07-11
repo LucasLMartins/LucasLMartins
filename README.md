@@ -1,20 +1,21 @@
 # Opa, tudo bom? Me chamo Lucas Martins 👋😎
 
-Tenho 20 anos, sou um desenvolvedor Full-stack, com cerca de 1 ano de experiência em desenvolvimento web e análise. Atualmente estou cursando o quinto período de Engenharia de Software, e tenho conhecimentos sólidos em HTML, CSS, Javascript, React, SQL e Git.
+Tenho 20 anos, sou um desenvolvedor Full-stack, com cerca de 1 ano de experiência em desenvolvimento web e análise. Atualmente estou cursando o sexto período de Engenharia de Software, e tenho conhecimentos sólidos em HTML, CSS, Javascript, React, SQL e Git.
 
 <br>
    
 ### Tecnologias   
    
 <div style="display: inline_block"> <br>
-   <img align="center" alt="Node" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt="Javascript" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img align="center" alt="React" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="center" alt="HTML" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-   <img align="center" alt="CSS" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-   <img align="center" alt="Next" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-   <img align="center" alt="MySQL" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img align="center" alt="Git" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img align="center" alt="HTML" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img align="center" alt="CSS" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img align="center" alt="Javascript" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" alt="Node" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+   <img align="center" alt="React" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+   <img align="center" alt="MySQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="PostgreSQL" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+   <img align="center" alt="MSSQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+   <img align="center" alt="Git" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 <br>
