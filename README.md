@@ -1,7 +1,7 @@
 # Opa, tudo bom? Me chamo Lucas Martins 👋😎
 <br>
 
-Tenho 20 anos, sou um desenvolvedor Full-stack, com cerca de 1 ano de experiência em desenvolvimento web e análise. Atualmente estou cursando o sexto período de Engenharia de Software, e tenho conhecimentos sólidos em HTML, CSS, Javascript, React, SQL e Git.
+Tenho 21 anos, sou um desenvolvedor Full-stack, com cerca de 1 ano de experiência em desenvolvimento web e análise. Atualmente estou cursando o sexto período de Engenharia de Software, e tenho conhecimentos sólidos em HTML, CSS, Javascript, React, SQL e Git.
 
 <br>
 
