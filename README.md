@@ -1,11 +1,11 @@
-# Opa, tudo bom? Me chamo Lucas Martins 👋😎
+# Hey, how's it going? My name is Lucas Martins 👋😎
 <br>
 
-Tenho 21 anos, sou um desenvolvedor Full-stack, com 2 anos de experiência em desenvolvimento web e análise. Atualmente estou cursando o sétimo período de Engenharia de Software, e tenho conhecimentos sólidos em HTML, CSS, Javascript, React, SQL e Git.
+I'm 21 years old, a Full-stack developer with 2 years of experience in web development and analysis. Currently, I'm in the seventh semester of Software Engineering, and I have solid knowledge in HTML, CSS, Javascript, React, SQL, and Git.
 
 <br>
 
-### Tecnologias   
+### Technologies   
    
 <div style="display: inline_block"> <br>
    <img align="center" alt="HTML5" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -22,16 +22,19 @@ Tenho 21 anos, sou um desenvolvedor Full-stack, com 2 anos de experiência em de
 <!--<br>-->
 <br>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLMartins&layout=compact)](https://github.com/LucasLMartins/github-readme-stats)
-<br>
--->
 
-### Contato  
+
+
+### Contact  
 <a href="https://www.linkedin.com/in/lucasluanmartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/lucasluan_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=41984765596" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
+<br>
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLMartins&layout=compact)](https://github.com/LucasLMartins/github-readme-stats)
+-->
+<br>
 <!--
 ![Snake animation](https://github.com/LucasLMartins/LucasLMartins/blob/output/github-contribution-grid-snake.svg)
 -->
