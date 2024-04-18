@@ -3,10 +3,11 @@
 
 I'm 21 years old, a Full-stack developer with 2 years of experience in web development and analysis. Currently, I'm in the seventh semester of Software Engineering, and I have solid knowledge in HTML, CSS, Javascript, React, SQL, and Git.
 
+<br>
 
 ### Technologies   
    
-<div style="display: inline_block"> <br>
+<div style="display: inline_block">
    <img align="center" alt="HTML5" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
    <img align="center" alt="CSS3" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
    <img align="center" alt="Javascript" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
