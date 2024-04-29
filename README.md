@@ -32,7 +32,6 @@ I'm 21 years old, a Full-stack developer with 2 years of experience in web devel
 
 ### Contact  
 <a href="https://www.linkedin.com/in/lucasluanmartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/lucasluan_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <br>
 <!--
