@@ -1,7 +1,7 @@
 # Hey, how's it going? My name is Lucas Martins 👋😎
 <br>
 
-I'm 22 years old, a Full-stack developer with 3 years of experience in web development and analysis. I have a degree in Software Engineering, and I have solid knowledge in HTML, CSS, Javascript, React, Node, MySQL/PostgreSQL, and Git.
+I'm 23 years old, a Full-stack developer with 4 years of experience in web development and analysis. I have a degree in Software Engineering, and I have solid knowledge in HTML, CSS, Javascript, React, Node, Redux, MySQL/PostgreSQL, and Git.
 
 <br>
 
